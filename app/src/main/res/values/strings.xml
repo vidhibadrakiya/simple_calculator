@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="result">Result</string>
+    <string name="sum">Sum</string>
+    <string name="sub">Sub</string>
+    <string name="division">division</string>
+    <string name="multiply">MUltiply</string>
+    <string name="g">Cannot divide by zero</string>
+    <string name="main">Main</string>
+</resources>
